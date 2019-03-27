@@ -53,3 +53,7 @@ Pode ser adicionado um comentário ou uma fonte para referenciar algo.
 - A `assunto` não deve conter acentuação ou caracteres especiais.
 
 Referencia: https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
+
+## Estilos
+
+#### Cores base:
