@@ -53,3 +53,10 @@ Pode ser adicionado um comentário ou uma fonte para referenciar algo.
 - A `assunto` não deve conter acentuação ou caracteres especiais.
 
 Referencia: https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716
+
+
+Cores Padrões do Geek4Geek
+- Cor Principal (Usado no header ) $geekBlackDefault: #282829;
+- Cor Secundária (Usado nas categorias e footer ) $geekBlackFooterDefault: #454545;
+- Cor de Destaque (Usado em links, buscas, carrinho e porcentagem ) $geekGreenDefault: #3cb371;
+
