@@ -60,6 +60,6 @@ Cores Padrões do Geek4Geek
 - Cor Secundária (Usado nas categorias e footer ) $geekBlackFooterDefault: #454545;
 - Cor de Destaque (Usado em links, buscas, carrinho, icon-whatsapp, porcentagem-valor-produtos ) $geekGreenDefault: #3cb371;
 - Cor de Destaque (Usado em Hover em carrinho e categorias) $geekGreenHover: #3cb371;
-- Background Icons Rede-sociais ( $geekFontDefault: #242424, $geekBackgroundIconFace: #3c5b9b, $geekBackgroundIconInstagram: #d82b7e)
-
+- Background Icons Rede-sociais (Whatsapp, Facebook, Instagram ) $geekBackgroundIconWhatsapp #3cb371, $geekBackgroundIconFace: #3c5b9b, $geekBackgroundIconInstagram: #d82b7e)
+ - Cor dos textos produtos (Cor dos texto dos produtos ) $geekFontDefault: #242424
 
