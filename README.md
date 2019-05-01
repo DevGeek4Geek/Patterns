@@ -59,4 +59,5 @@ Cores Padrões do Geek4Geek
 - Cor Principal (Usado no header ) $geekBlackDefault: #282829;
 - Cor Secundária (Usado nas categorias e footer ) $geekBlackFooterDefault: #454545;
 - Cor de Destaque (Usado em links, buscas, carrinho e porcentagem ) $geekGreenDefault: #3cb371;
+- Cor de Destaque (Usado em Hover em carrinho e categorias) $geekGreenHover: #3cb371;
 
